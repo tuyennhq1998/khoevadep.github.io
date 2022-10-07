@@ -40,12 +40,12 @@
     z-index: 100000; /*Hiển thị lớp trên cùng*/
 
   ">
-      <a href="index.html" style="padding:10px; color:azure">Trang chủ</a>
-      <a href="about.html" style="padding:10px; color:azure">Giới thiệu</a>
-      <a href="service.html" style="padding:10px; color:azure">Dịch vụ</a>
-      <a href="gallery.html" style="padding:10px; color:azure">Hình ảnh</a>
-      <a href="specialist.html" style="padding:10px; color:azure">Đào tạo học viên</a>
-      <a href="contact.html" style="padding:10px; color:azure">Liên hệ</a>
+      <a href="index.php" style="padding:10px; color:azure">Trang chủ</a>
+      <a href="about.php" style="padding:10px; color:azure">Giới thiệu</a>
+      <a href="service.php" style="padding:10px; color:azure">Dịch vụ</a>
+      <a href="gallery.php" style="padding:10px; color:azure">Hình ảnh</a>
+      <a href="specialist.php" style="padding:10px; color:azure">Đào tạo học viên</a>
+      <a href="contact.php" style="padding:10px; color:azure">Liên hệ</a>
     </div>
     <!-- <div class="custom_nav-box">
       <div class="custom_menu-btn ">
@@ -66,19 +66,19 @@
     </div> -->
       <!-- <ul class="navbar-nav">
         <li class="nav-item active">
-          <a class="nav-link" href="index.html">Trang chủ <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="index.php">Trang chủ <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="about.html"> Giới thiệu</a>
+          <a class="nav-link" href="about.php"> Giới thiệu</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="service.html"> Dịch vụ </a>
+          <a class="nav-link" href="service.php"> Dịch vụ </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="specialist.html">Specialists </a>
+          <a class="nav-link" href="specialist.php">Specialists </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="contact.html">Liên hệ với chúng tôi</a>
+          <a class="nav-link" href="contact.php">Liên hệ với chúng tôi</a>
         </li>
       </ul> -->
       
@@ -95,19 +95,19 @@
               <div class="d-flex ml-auto flex-column flex-lg-row align-items-center">
                 <ul class="navbar-nav  ">
                   <li class="nav-item active">
-                    <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="about.html"> About</a>
+                    <a class="nav-link" href="about.php"> About</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="service.html"> services </a>
+                    <a class="nav-link" href="service.php"> services </a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="specialist.html">Specialists </a>
+                    <a class="nav-link" href="specialist.php">Specialists </a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contact Us</a>
+                    <a class="nav-link" href="contact.php">Contact Us</a>
                   </li>
                 </ul>
               </div>
@@ -201,19 +201,19 @@
             </h6>
             <ul>
               <li class=" active">
-                <a class="" href="index.html">Trang chủ <span class="sr-only">(current)</span></a>
+                <a class="" href="index.php">Trang chủ <span class="sr-only">(current)</span></a>
               </li>
               <li class="">
-                <a class="" href="about.html">Giới thiệu </a>
+                <a class="" href="about.php">Giới thiệu </a>
               </li>
               <li class="">
-                <a class="" href="service.html">Dịch vụ </a>
+                <a class="" href="service.php">Dịch vụ </a>
               </li>
               <li class="">
-                <a class="" href="specialist.html">Đào tạo học viên </a>
+                <a class="" href="specialist.php">Đào tạo học viên </a>
               </li>
               <li class="">
-                <a class="" href="contact.html">Về chúng tôi</a>
+                <a class="" href="contact.php">Về chúng tôi</a>
               </li>
             </ul>
           </div>
